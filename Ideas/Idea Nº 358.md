@@ -1,8 +1,8 @@
 Date: 2024-12-23
-Tags: swqw
+Tags: sw
 
 # Idea:
-A brief, clear description of the idea. ffff
+A brief, clear description of the idea.
 # Key concepts/thoughts:
 Important underlying concepts? Previously written thoughts it relates to?
 # Personal reflection
