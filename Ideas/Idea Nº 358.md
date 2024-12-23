@@ -1,5 +1,5 @@
 Date: 2024-12-23
-Tags: sw
+Tags:
 
 # Idea:
 A brief, clear description of the idea.
